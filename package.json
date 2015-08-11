@@ -1,7 +1,7 @@
 {
-  "name": "node-bloodhound",
+  "name": "react-native-bloodhound",
   "version": "1.0.0",
-  "description": "bloodhound.js in node",
+  "description": "bloodhound.js in node for react native",
   "main": "index.js",
   "scripts": {
     "build": "browserify index.js -o client.js",
