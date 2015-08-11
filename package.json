@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "object-assign": "^3.0.0",
-    "promise": "^7.0.3"
+    "promise": "^6.0.1"
   },
   "devDependencies": {
     "jasmine": "^2.3.1"
