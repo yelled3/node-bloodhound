@@ -7,7 +7,7 @@
     "build": "browserify index.js -o client.js",
     "test": "./node_modules/jasmine/bin/jasmine.js"
   },
-  "author": "Wang Zuo",
+  "author": "Adam Farhi",
   "license": "MIT",
   "dependencies": {
     "object-assign": "^3.0.0",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pqx/node-bloodhound.git"
+    "url": "git+https://github.com/yelled3/node-bloodhound.git"
   },
   "keywords": [
     "node",
@@ -27,7 +27,7 @@
     "index"
   ],
   "bugs": {
-    "url": "https://github.com/pqx/node-bloodhound/issues"
+    "url": "https://github.com/yelled3/node-bloodhound/issues"
   },
-  "homepage": "https://github.com/pqx/node-bloodhound#readme"
+  "homepage": "https://github.com/yelled3/node-bloodhound#readme"
 }
